@@ -4,5 +4,4 @@ This repository is the solution to one of the assignments given in [The Odin Pro
 * Hard - computer makes half random half AI moves.
 * Impossible - All moves are AI, making computer impossible to beat.  
   
-<p align="center"><img src="demo.gif" alt="alt text" width="300px"></p>
-
+<p align="center"><img src="demo.gif" alt="application demo" width="300px"></p>
